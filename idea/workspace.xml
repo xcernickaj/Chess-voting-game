@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aaa01efe-633c-4180-b92d-ecda5f94b8f4" name="Changes" comment="Adding javadoc and comments">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/gamelogic/Chess_Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/gamelogic/Chess_Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/gui/Chess_Board_Panel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/gui/Chess_Board_Panel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/gui/Promotion_Panel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/gui/Promotion_Panel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/launcher/Chess_Voting_Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/launcher/Chess_Voting_Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/move/Coordinates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/move/Coordinates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/move/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/move/Move.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/move/Move_Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/move/Move_Type.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/pieces/Bishop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/pieces/Bishop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/pieces/King.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/pieces/King.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/pieces/Knight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/pieces/Knight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/pieces/Long_Range_Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/pieces/Long_Range_Piece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/pieces/MovementVectors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/pieces/MovementVectors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/pieces/Pawn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/pieces/Pawn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/pieces/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/pieces/Piece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/pieces/Queen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/pieces/Queen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/pieces/Rook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/pieces/Rook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/pieces/Short_Range_Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/java/com/jurajcernickaproject/pieces/Short_Range_Piece.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2eF99uPrm456i3PTYaTuvzyJ946" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Chess_Voting_Game.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HighlightableTextWindow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Move_Guesser.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TextWindowExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.jurajcernickaproject.launcher.Chess_Voting_Game.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.All in JurajCernickaProject.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jurko/IdeaProjects/JurajCernickaProject&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jurko\IdeaProjects\JurajCernickaProject\src\main\java\com\example\jurajcernickaproject\Img" />
+      <recent name="C:\Users\jurko\IdeaProjects\JurajCernickaProject\src\main\java\com\example\jurajcernickaproject" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.jurajcernickaproject.Img" />
+      <recent name="com.example.jurajcernickaproject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.jurajcernickaproject.launcher.Chess_Voting_Game">
+    <configuration name="Chess_Voting_Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.jurajcernickaproject.launcher.Chess_Voting_Game" />
+      <module name="JurajCernickaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.jurajcernickaproject.move.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HighlightableTextWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.jurajcernickaproject.HighlightableTextWindow" />
+      <module name="JurajCernickaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.jurajcernickaproject.move.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextWindowExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.jurajcernickaproject.TextWindowExample" />
+      <module name="JurajCernickaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.jurajcernickaproject.move.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.jurajcernickaproject.launcher.Chess_Voting_Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jurajcernickaproject.launcher.Chess_Voting_Game" />
+      <module name="JurajCernickaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jurajcernickaproject.launcher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in JurajCernickaProject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JurajCernickaProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.jurajcernickaproject.launcher.Chess_Voting_Game" />
+        <item itemvalue="Application.Chess_Voting_Game" />
+        <item itemvalue="Application.TextWindowExample" />
+        <item itemvalue="Application.HighlightableTextWindow" />
+        <item itemvalue="JUnit.All in JurajCernickaProject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aaa01efe-633c-4180-b92d-ecda5f94b8f4" name="Changes" comment="" />
+      <created>1711489313416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711489313416</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1711489371415</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711489371415</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1711489414090</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711489414090</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1712159161653</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712159161653</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1712421959885</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712421959885</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1712422762834</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712422762834</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Addition of the voter mechanic">
+      <option name="closed" value="true" />
+      <created>1712452398870</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712452398870</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Addition of the voter mechanic">
+      <option name="closed" value="true" />
+      <created>1712453044654</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712453044654</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Addition of piece images">
+      <option name="closed" value="true" />
+      <created>1712500702017</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712500702017</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added comments">
+      <option name="closed" value="true" />
+      <created>1712530543591</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712530543591</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Gui changes">
+      <option name="closed" value="true" />
+      <created>1715262693434</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715262693434</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Gui changes">
+      <option name="closed" value="true" />
+      <created>1715265600632</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1715265600632</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added serialization">
+      <option name="closed" value="true" />
+      <created>1715284807136</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715284807136</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Fixed a bug with en passant">
+      <option name="closed" value="true" />
+      <created>1715289177178</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715289177178</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fixed an issue with MoveStringifier">
+      <option name="closed" value="true" />
+      <created>1715375825143</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1715375825143</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Fixing bugs">
+      <option name="closed" value="true" />
+      <created>1715384148260</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1715384148260</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Reorganising code">
+      <option name="closed" value="true" />
+      <created>1715387493230</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1715387493230</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Organising into packages">
+      <option name="closed" value="true" />
+      <created>1715389683994</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1715389683994</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Adding javadoc and comments">
+      <option name="closed" value="true" />
+      <created>1715550403601</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1715550403601</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Code clean up" />
+    <MESSAGE value="Addition of piece images" />
+    <MESSAGE value="Added comments" />
+    <MESSAGE value="Gui changes" />
+    <MESSAGE value="Added serialization" />
+    <MESSAGE value="Fixed a bug with en passant" />
+    <MESSAGE value="Fixed an issue with MoveStringifier" />
+    <MESSAGE value="Fixing bugs" />
+    <MESSAGE value="Reorganising code" />
+    <MESSAGE value="Organising into packages" />
+    <MESSAGE value="Adding javadoc and comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding javadoc and comments" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="13" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.example.jurajcernickaproject.Chess_Position" memberName="tiles" />
+        <PinnedItemInfo parentTag="com.example.jurajcernickaproject.Chess_Pieces.Bishop" memberName="moves" />
+        <PinnedItemInfo parentTag="com.example.jurajcernickaproject.Chess_Position" memberName="previousStates" />
+        <PinnedItemInfo parentTag="com.example.jurajcernickaproject.Chess_Pieces.Knight" memberName="moves" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="motherboard_panel.squares[6][1]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
